@@ -1,5 +1,6 @@
 Hi 👋, I'm lokinehn
-The DevOps Guy who ♥ automating stuff
+
+DevOps guy who automating stuff
 
 
 🏢 I’m currently working in Pharm Company "Pulse" as DevOps Engineer
